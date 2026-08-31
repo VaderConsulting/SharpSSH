@@ -25,7 +25,7 @@ Open `SharpSSH.sln` in Visual Studio.
 ## Attribution and provenance
 
 - **SharpSSH:** Tamir Gal (tamirgal.com), copyright Tamir Gal (c) 2007 and jcraft.com
-- **JSch:** ymnk, JCraft, Inc. (jcraft.com) — C# port of the Java SSH implementation
+- **JSch:** ymnk, JCraft, Inc. (jcraft.com) - C# port of the Java SSH implementation
 
 ## License
 
