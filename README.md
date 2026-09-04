@@ -22,6 +22,10 @@ C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH
 
 Open `SharpSSH.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2013, .NET Framework 4.0
+
 ## Attribution and provenance
 
 - **SharpSSH:** Tamir Gal (tamirgal.com), copyright Tamir Gal (c) 2007 and jcraft.com
