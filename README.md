@@ -1,6 +1,6 @@
 # SharpSSH
 
-C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. Tamir Gal (tamirgal.com) ported JCraft JSch to C# as assembly Tamir.SharpSSH 1.1.1.13 (copyright Tamir Gal (c) 2007 and jcraft.com); this Visual Studio 2013 working copy is from Dave Robinson's Historical Dev archive. Open `SharpSSH.sln` to load the class library (`SharpSSH/SharpSSH.csproj`) and the Examples test utility (`Examples/Examples.csproj`).
+C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. Tamir Gal (tamirgal.com) ported JCraft JSch to C# as assembly Tamir.SharpSSH 1.1.1.13 (copyright Tamir Gal (c) 2007 and jcraft.com); this Visual Studio 2013 working copy is from my Historical Dev archive. Open `SharpSSH.sln` to load the class library (`SharpSSH/SharpSSH.csproj`) and the Examples test utility (`Examples/Examples.csproj`).
 
 **Source last updated:** 2014-01-03  
 **Language:** C#  
@@ -9,7 +9,7 @@ C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH
 
 ## What it is
 
-C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. Tamir Gal (tamirgal.com) ported JCraft JSch to C# as assembly Tamir.SharpSSH 1.1.1.13 (copyright Tamir Gal (c) 2007 and jcraft.com); this Visual Studio 2013 working copy is from Dave Robinson's Historical Dev archive. Open `SharpSSH.sln` to load the class library (`SharpSSH/SharpSSH.csproj`) and the Examples test utility (`Examples/Examples.csproj`).
+C# SSH library for .NET (Tamir Gal SharpSSH, a JSch port) with jsch and SharpSSH samples. Tamir Gal (tamirgal.com) ported JCraft JSch to C# as assembly Tamir.SharpSSH 1.1.1.13 (copyright Tamir Gal (c) 2007 and jcraft.com); this Visual Studio 2013 working copy is from my Historical Dev archive. Open `SharpSSH.sln` to load the class library (`SharpSSH/SharpSSH.csproj`) and the Examples test utility (`Examples/Examples.csproj`).
 
 ## Solution structure
 
